@@ -103,7 +103,7 @@
                {
         "title": "Poké Morph Addon Addon",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemonaddon1.zip",
-        "isLocked": false,
+        "isLocked": true,
         "coins": 0,
         "description": "Poke addon for minecraft bedrock that adds 4 poké that stays by your side to walk with you through the world of mcpe and has poké..",
         "preview": [
@@ -113,7 +113,7 @@
                {
         "title": "Craftmon Legacy A Poke Addon",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/craftmon-legacy-v0_6.zip",
-        "isLocked": false,
+        "isLocked": true,
         "coins": 0,
         "description": "Craftmon Legacy Addon will add Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
         "preview": [
