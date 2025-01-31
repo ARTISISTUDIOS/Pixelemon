@@ -34,7 +34,7 @@
   "MinecraftData": {
     "Addons": [
       {
-        "title": "Addon: Pokédrock 1 (Pokemon part 1)",
+        "title": "Addon: Pokédrock 1 (part 1)",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part1.zip",
         "isLocked": false,
         "coins": 0,
@@ -49,7 +49,7 @@
         ]
       },
           {
-        "title": "Addon: Pokédrock 2 (Pokemon part 2)",
+        "title": "Addon: Pokédrock 2 (part 2)",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part2.zip",
         "isLocked": false,
         "coins": 0,
@@ -59,11 +59,10 @@
           "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(2).jpeg",
           "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(3).jpeg",
           "https://www.mcpedl.life/files/mods/Poke/SERP%20Poke%CC%81drock%202/screen-img%20(4).jpeg"
-
-        ]
+      ]
       },
            {
-        "title": "Addon: Pokédrock 3 (Pokemon part 3)",
+        "title": "Addon: Pokédrock 3 (part 3)",
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/poke-part3.zip",
         "isLocked": false,
         "coins": 0,
@@ -78,7 +77,7 @@
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemon-addon-V1.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Did you want a Pokemon with the same quality as the Pixelmon Mod in Java Edition? For you, Pixelmon has come to Bedrock Edition. Raise a Pokémon with great quality! Meet and catch various Pokémon in the wild, and stay together!",
+        "description": "Did you want a Pokemons with the same quality as the Pixelmon Mod in Java Edition? For you, Pixelmon has come to Bedrock Edition. Raise a Poké with great quality! Meet and catch various Poké in the wild, and stay together!",
         "preview": [
           "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img.jpeg",
           "https://www.mcpedl.life/files/mods/Poke/Addon_%20Pixelmon%20Bedrock/screen-img%20(1).jpeg",
@@ -92,8 +91,7 @@
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/Pixelmon-Bedrock-Addon.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "The Pixelmon addon for Minecraft PE is truly something else! What makes the Minecraft Pixelmon addon mods so good is the functionality. There is much more than mere visual appeal here. Fans of pokemon can now enjoy the thrill of their favorite game and anime series with this Pixelmon updated, also known as the Pixelmon Addon Minecraft Bedrock edition. Even players who are unfamiliar with the magical world of Pokemon are bound to enjoy the hours of unfiltered joy with the Pixelmon addon for Minecraft. What exactly is it and how does it work? Let's have a look, shall we?
-",
+        "description": "The Pixelmon addon for MCPE is truly something else! What makes the mcpe Pixelmon addon mods so good is the functionality. There is much more than mere visual appeal here. Fans of poke can now enjoy the thrill of their favorite game and anime series with this Pixelmon updated, also known as the Pixelmon Addon Minecraft Bedrock edition. Even players who are unfamiliar with the magical world of Pokemon are bound to enjoy the hours of unfiltered joy with the Pixelmon addon for Minecraft. What exactly is it and how does it work? Let's have a look, shall we?",
         "preview": [
           "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img.jpeg",
           "https://www.mcpedl.life/files/mods/Poke/Pixelmon%20Addon/screen-img%20(1).jpeg",
@@ -107,7 +105,7 @@
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/pokemonaddon1.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Pokemon addon for minecraft bedrock that adds 4 pokemon that stays by your side to walk with you through the world of minecraft and has pokemon..",
+        "description": "Poke addon for minecraft bedrock that adds 4 poké that stays by your side to walk with you through the world of mcpe and has poké..",
         "preview": [
           "https://api.mcpedl.com/storage/submissions/84224/100/fsafasfsafasfasff_1-520x245.png"
         ]
@@ -117,7 +115,7 @@
         "addonLink": "https://github.com/trendradarhub/RexPixel/raw/refs/heads/main/craftmon-legacy-v0_6.zip",
         "isLocked": false,
         "coins": 0,
-        "description": "Craftmon Legacy Addon will add Pokemon, Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
+        "description": "Craftmon Legacy Addon will add Pokemon Trainers and Pokemon Battle to Minecraft Bedrock.",
         "preview": [
           "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img.jpeg",
           "https://www.mcpedl.life/files/mods/Poke/Craftmon%20Legacy%20A%20Pokemon%20/screen-img%20(6).jpeg",
